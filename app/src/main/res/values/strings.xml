@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="closeApp" />
+    <string name="closeApp1">Закрыть приложение</string>
+</resources>
